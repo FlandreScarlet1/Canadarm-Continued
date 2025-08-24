@@ -14,3 +14,6 @@ https://github.com/meirumeiru/IR-ConnectionSystem
 https://github.com/meirumeiru/Kerbal-Joint-Reinforcement
 
 https://github.com/Tantares/NeptuneCamera
+
+Option if using RO:
+https://github.com/RaptorMM/Habtech2-RO-Configs
