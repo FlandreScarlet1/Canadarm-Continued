@@ -1,7 +1,7 @@
 # Canadarm-Continued
 Credit goes towards Jeast85 even though hes long long for making the Canadarm: https://github.com/Jeast85/Canadarm
 
-Changes on all the parts of the canadarm will be made to be up to date with Infernal Robotics and Kerbal Space Program
+Changes on all the parts of the canadarm will be made to be up to date with Infernal Robotics and Kerbal Space Program and will be RO Supportable
 
 Install needed required for it to work
 
