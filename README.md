@@ -10,3 +10,5 @@ https://github.com/meirumeiru/InfernalRobotics
 https://github.com/meirumeiru/IR-ConnectionSystem
 
 https://github.com/meirumeiru/Kerbal-Joint-Reinforcement
+
+https://github.com/linuxgurugamer/PartUtilities
