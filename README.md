@@ -11,4 +11,4 @@ https://github.com/meirumeiru/IR-ConnectionSystem
 
 https://github.com/meirumeiru/Kerbal-Joint-Reinforcement
 
-https://github.com/linuxgurugamer/PartUtilities
+https://github.com/Tantares/NeptuneCamera
