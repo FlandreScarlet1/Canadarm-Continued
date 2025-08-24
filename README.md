@@ -15,5 +15,7 @@ https://github.com/meirumeiru/Kerbal-Joint-Reinforcement
 
 https://github.com/Tantares/NeptuneCamera
 
+https://github.com/benjee10/htRobotics
+
 Option if using RO:
 https://github.com/RaptorMM/Habtech2-RO-Configs
